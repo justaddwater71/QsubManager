@@ -1,0 +1,1 @@
+A set of classes to create repeating jobs for submission to a Torque qsub command to support natural language processing in my thesis.
